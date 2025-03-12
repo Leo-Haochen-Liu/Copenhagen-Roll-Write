@@ -1,12 +1,7 @@
-# README
+# Copenhagen: Roll & Write Game
+This is a project done in a team of 2. We built it to practice our coding skills, so the game rules are intentionally complex.
 
-This supplementary material includes two PDF files, providing additional content related to the formative research (Material 1) and user studies (Material 2) presented in the paper. 
+## Game Overview
+In ***Copenhagen: Roll & Write***, players take turns rolling dice and strategically placing polyomino tiles to complete a building facade. By carefully selecting dice colors and tile shapes, you aim to fill rows and columns, unlocking special abilities and earning points along the way. The game includes various strategic elements, such as using bonuses and managing abilities, to enhance gameplay depth.
 
-## Formative Research (Material 1)
-
-Material 1 contains sketches of visual representations for everyday object AI agents created by workshop participants, along with their insights into the reasoning behind their designs. 
-
-
-## User Studies  (Material 2)
-
-Material 2 documents the detailed dialogues between users and the three everyday object AI agents (a plant, a pillow, and an apple) during the evaluation of the prototype system.
+For a detailed explanation of the rules, please refer to the `copenhagen_r+w_en.pdf` in the `assets` folder. Additional game instructions are available in `user_manual.md`.
